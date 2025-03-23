@@ -1,4 +1,4 @@
-#test
-
-test = 18 % 3
-print (test)
+x=1
+while x > 0:
+    x+=1
+    print (x)
